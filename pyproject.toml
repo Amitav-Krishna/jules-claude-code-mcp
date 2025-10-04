@@ -1,0 +1,10 @@
+[build-system]
+requires = ["uv_build >= 0.8.17, <0.9.0"]
+build-backend = "uv_build"
+[project]
+version = "1.0.0"
+name = "jules_claude_code_mcp"
+dependencies = [
+    "fastmcp>=2.12.4",
+]
+
