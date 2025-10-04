@@ -1,0 +1,9 @@
+* jules-claude-code-mcp
+This is a project to let you work with Claude Code and to give it the ability to manage and administer Google Jules coding agents. 
+
+* MVP
+- [ ] Allow Claude Code to spin up new Google Jules agents through MCP
+- [ ] Sandbox stuff(?)
+
+* Sprinkles
+- [ ] Give the Google Jules agents the ability to work with Claude Code.

@@ -1,1 +1,0 @@
-# jules-claude-code-mcp
